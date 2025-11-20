@@ -48,7 +48,6 @@ Mobile dominates
 ![Seasonal Trend](visualizations/04_seasonal_trends.png)  
 Clear Q4 spike  
 
-(You can create these quickly in Power BI, Tableau Public, or even Google Sheets → export as PNG)
 
 ## SQL Queries Included
 
