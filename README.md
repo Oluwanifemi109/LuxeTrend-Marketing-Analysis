@@ -52,7 +52,7 @@ Clear Q4 spike
 
 ## SQL Queries Included
 
-All queries are fully commented in `sql/04_analysis_queries.sql`
+All queries are fully commented in `https://github.com/Oluwanifemi109/LuxeTrend-Marketing-Analysis/blob/main/Marketing%20Data.sql`
 
 1. Top campaign by impressions/clicks/conversions  
 2. Average CPC & CTR per campaign  
