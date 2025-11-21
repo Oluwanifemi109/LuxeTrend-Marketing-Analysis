@@ -38,20 +38,14 @@ This project answers all of these questions using only SQL on a 9k+ dataset.
 
 ## 📊 Visualizations
 
-![Top Performing Campaign  
-![ROI by Channel & Device](visualizations/02_roi_by_channel.png)  
-Highest ROI: Pinterest Mobile  
-
-![Conversions by Device](visualizations/03_conversions_by_device.png)  
-Mobile dominates  
-
-![Seasonal Trend](visualizations/04_seasonal_trends.png)  
-Clear Q4 spike  
+![Chart](./Chart.png)
+  
+*Highest ROI: Pinterest Mobile  || Mobile dominates || Clear Q4 spike*
 
 
 ## SQL Queries Included
 
-All queries are fully commented in `https://github.com/Oluwanifemi109/LuxeTrend-Marketing-Analysis/blob/main/Marketing%20Data.sql`
+All queries are fully commented in `/Marketing Data.sql`
 
 1. Top campaign by impressions/clicks/conversions  
 2. Average CPC & CTR per campaign  
