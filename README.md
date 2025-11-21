@@ -2,6 +2,8 @@
 
 *Multi-channel advertising ROI analysis using SQL – Facebook, Pinterest, Google Ads, TikTok | 150,000+ data | 9,000+ rows | £1.2M spend analyzed*
 
+---
+
 ## 📁 Business Context & Problem Statement
 
 LuxeTrend Fashion is a growing UK online fashion brand that invested heavily in paid advertising throughout 2023. The marketing team needed clear answers to:
@@ -12,6 +14,8 @@ LuxeTrend Fashion is a growing UK online fashion brand that invested heavily in 
 - Is there seasonality or device preference we are missing?
 
 This project answers all of these questions using only SQL on a 9k+ dataset.
+
+---
 
 ## 📅 Dataset Overview
 
@@ -24,6 +28,8 @@ This project answers all of these questions using only SQL on a 9k+ dataset.
   - Impressions, Clicks, CTR, Daily_Avg_CPC, Spend_GBP
   - Conversions, Total_conversion_value_GBP
   - Likes_Reactions, Shares, Comments
+ 
+---
 
 ## 💡 Key Insights & Business Recommendations
 
@@ -36,12 +42,15 @@ This project answers all of these questions using only SQL on a 9k+ dataset.
 | "Discount" ads crush "Collection" ads on Pinterest | Shift creative focus to discount-led messaging on Pinterest & test on TikTok | Faster inventory turnover, higher margins |
 | Clear Q4 spike (Sep–Nov) | Front-load budget from mid-August onwards | Capture Black Friday buildup early |
 
+---
+
 ## 📊 Visualizations
 
 ![Chart](./Chart.png)
   
 *Highest ROI: Pinterest Mobile  || Mobile dominates || Clear Q4 spike*
 
+---
 
 ## 🤔 SQL Queries Included
 
@@ -57,6 +66,8 @@ All queries are fully commented in `/Marketing Data.sql`
 8. ROI matrix by Campaign × Channel × Device  
 9. Spend vs Conversion Value correlation  
 10. Daily trend analysis (seasonality)
+
+---
 
 ## 💼 Tool Kit
 
