@@ -43,7 +43,7 @@ This project answers all of these questions using only SQL on a 9k+ dataset.
 *Highest ROI: Pinterest Mobile  || Mobile dominates || Clear Q4 spike*
 
 
-## SQL Queries Included
+## 🤔 SQL Queries Included
 
 All queries are fully commented in `/Marketing Data.sql`
 
