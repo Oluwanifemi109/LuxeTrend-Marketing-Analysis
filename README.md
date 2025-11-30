@@ -48,7 +48,7 @@ This project answers all of these questions using only SQL on a 9k+ dataset.
 
 ![Chart](./Chart.png)
   
-*Highest ROI: Pinterest Mobile  || Mobile dominates || Clear Q4 spike*
+*Highest ROI: Pinterest Desktop  || Mobile dominates clicks while desktop dominates conversions || Clear Q4 spike*
 
 ---
 
