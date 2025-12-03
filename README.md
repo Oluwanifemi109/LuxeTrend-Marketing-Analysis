@@ -1,6 +1,6 @@
 # LuxeTrend Fashion – Paid Marketing Campaign Analysis
 
-*Multi-channel advertising ROI analysis using SQL – Facebook, Pinterest, Instagram| 150,000+ data | 9,000+ rows | £1.2M spend analyzed*
+*Multi-channel advertising ROI analysis using SQL – Facebook, Pinterest, Instagram | 150,000+ data | 9,000+ rows | £1.2M spend analyzed*
 
 ---
 
