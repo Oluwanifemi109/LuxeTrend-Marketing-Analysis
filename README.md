@@ -1,6 +1,6 @@
 # LuxeTrend Fashion – Paid Marketing Campaign Analysis
 
-*Multi-channel advertising ROI analysis using SQL – Facebook, Pinterest, Google Ads, TikTok | 150,000+ data | 9,000+ rows | £1.2M spend analyzed*
+*Multi-channel advertising ROI analysis using SQL – Facebook, Pinterest, Instagram| 150,000+ data | 9,000+ rows | £1.2M spend analyzed*
 
 ---
 
@@ -19,7 +19,7 @@ This project answers all of these questions using only SQL on a 9k+ dataset.
 
 ## 📅 Dataset Overview
 
-- **Source**: Internal ad platform export (Facebook Ads Manager, Google Ads, Pinterest, TikTok)
+- **Source**: Internal ad platform export (Facebook, Pinterest, Instagram)
 - **Time period**: 01/03/2023 – 30/11/2023
 - **Rows**: ~9,500+ daily records
 - **Key columns**:
