@@ -38,7 +38,7 @@ This project answers all of these questions using only SQL on a 9k+ dataset.
 | Fall campaign delivered 18.03% higher conversions vs Spring | Reallocate 30–40% of Spring budget to Fall/Winter | +25–35% total conversions |
 | Pinterest **Desktop** is the ROI champion (avg ~468%) | Scale Pinterest Desktop aggressively ("Discount" creatives) | 4–5× ROAS, highest profit channel |
 | **Desktop** converts at 23.99% vs Mobile 20.42% | Keep strong desktop bidding & creatives; don’t go “mobile-only” | Higher revenue per click |
-| Manchester & London dominate engagement; Birmingham/Glasgow win on pure conversion rate | Awareness budget → Manchester/London<br>Conversion budget → Birmingham/Glasgow | Optimised funnel performance |
+| Manchester & London dominate engagement; Birmingham win on pure conversion rate | Awareness budget → Manchester/London<br>Conversion budget → Birmingham | Optimised funnel performance |
 | "Discount" ads crush "Collection" ads on Pinterest | Shift creative focus to discount-led messaging on Pinterest & test on TikTok | Faster inventory turnover, higher margins |
 | Clear Q4 spike (Sep–Nov) | Front-load budget from mid-August onwards | Capture Black Friday buildup early |
 
